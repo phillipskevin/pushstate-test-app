@@ -1,0 +1,16 @@
+{
+  "name": "route-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "can": "^5.0.0",
+    "steal": "^2.0.0"
+  }
+}
